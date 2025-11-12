@@ -1,1 +1,6 @@
-/SR386_ANN.ipynb
+# Ignore all PNG files
+*.png
+
+# Ignore the .numbers file
+*.numbers
+
